@@ -3,7 +3,7 @@
 basic script for initial vscode setup
 
 * create .vscode folder 📁
-* create settings.json , launch,json for debug
+* create settings.json , launch.json for debug
 * create tsconfig.json
 
 > download repo
